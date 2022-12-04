@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://b3atman.github.io/task-list/
+https://b3atman.github.io/todos-list-react/
 
 ## Description
 
