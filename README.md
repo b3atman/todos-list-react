@@ -1,6 +1,6 @@
 # Task List
 
-![Task-List](%PUBLIC_URL%/howitworks.gif)
+![Task-List](images/howitworks.gif)
 
 ## Demo
 
