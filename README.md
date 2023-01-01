@@ -15,12 +15,15 @@ Presented tool allows you to create your own task list. Tasks can be added or de
 - CSS
 - Javascript
 - React
+- Create React App
 - BEM convention
 - Media Queries
 - Open Graph Protocol
 - Grid
 - Immutability
 - Normalize.css
+- Hooks
+- Styled Components
 
 # Getting Started with Create React App
 
