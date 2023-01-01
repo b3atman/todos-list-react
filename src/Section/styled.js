@@ -20,11 +20,11 @@ export const Header = styled.header`
     }
 `;
 
-export const Title = styled.title`
+export const Title = styled.h2`
     font-size: 20px;
     margin: 0;
 `;
 
-export const Body = styled.body`
+export const Body = styled.div`
     padding: 20px;
 `;
